@@ -1,0 +1,52 @@
+#######################
+	Tips VueJs 
+######################
+
+
+# Installar o vue-cli
+	npm install -g vue-cli
+	npm install -g vue
+
+	npm install vue-cli@2.7.0
+
+# criar template 
+	vue init webpack-simple nomeProjeto
+
+# rodar projeto
+	npm run dev
+
+
+# Rodar api
+	npm start ... subir server da API.
+
+# Dependencia resource
+	npm install vue-resource@1.0.3 --save
+
+# modulo routas
+	npm install vue-router@2.1.1 --save
+
+# modulo de validação 
+  npm install vee-validate@2.0.0-beta.18 --save
+  npm install vee-validate --save
+
+# Criando deploy
+  npm run build 
+
+# instalando o bootstrap
+  
+  npm install bootstrap@3.3.7 --save
+  npm install bootstrap
+
+  npm install css-loader@0.25.0 style-loader@0.13.1 --save-dev
+  npm install css-loader style-loader --save-dev
+
+  npm install url-loader@0.5.7 --save-dev
+  npm install url-loader --save-dev
+  
+# instaland SASS
+  npm install node-sass@4.5.0 sass-loader@4.1.1 --save-dev
+  npm install node-sass sass-loader --save-dev
+
+  npm install jquery@3.1.1 --save
+  npm install jquery --save
+
