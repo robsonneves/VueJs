@@ -50,3 +50,14 @@
   npm install jquery@3.1.1 --save
   npm install jquery --save
 
+
+###################################
+  Tips VueJs Test Utils + JEST
+###################################
+
+# Ver documentação de testes
+  npm install --save-dev jest vue-test-utils
+
+
+
+
